@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DorianTurner a beginner programmer
-- 👀 I’m interested in Python and C++
-- 🌱 I’m currently learning python and C++
+- 👀 I’m interested in Python and programming in general
+- 🌱 I’m currently learning python
 - 📫 How to reach me dorianemmanuelturner@gmail.com
 
 <!---
