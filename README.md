@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DorianTurner a student doing A-Levels
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning to code in C and Python
+- 👀 I try to make projects that teach me a lot of new things
 - 📫 How to reach me dorianemmanuelturner@gmail.com
 
 <!---
