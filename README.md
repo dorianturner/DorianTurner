@@ -1,8 +1,9 @@
 # Project Bucket List 
-1. Live chat client in C to learn networking
-2. Ray Tracer
-3. Ray Marcher
-4. Wave function collapse infinite city generator
-5. Mini Operating System
-6. Audio Visualizer
+1. Mesh Networking
+2. Live chat client in C to learn networking
+3. Ray Tracer
+4. Ray Marcher
+5. Wave function collapse infinite city generator
+6. Mini Operating System
+7. Audio Visualizer
 
