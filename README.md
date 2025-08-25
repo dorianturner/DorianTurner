@@ -9,4 +9,4 @@
 8. Tribes as a dark midieval fantasy
 
 # Completed
-1. Database from scratch
+1. FortDB: Append Only, NoSQL database made with only standard library
