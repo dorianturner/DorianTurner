@@ -1,5 +1,5 @@
 # Project Bucket List 
-1. Programming language for music written in Haskell
+1. Programming language for music
 2. Mesh Networking
 3. Ray Tracer
 4. Ray Marcher
