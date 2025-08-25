@@ -5,6 +5,7 @@
 4. Wave function collapse infinite city generator
 5. Mini Operating System
 6. Audio Visualizer
+7. Tribes as a dark midieval fantasy
 
 # Completed
 1. Database from scratch
