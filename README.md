@@ -10,3 +10,4 @@
 
 # Completed
 1. FortDB: Append Only, NoSQL database made with only standard library
+2. Roomie: Android app for students to find their ideal University flatmates
