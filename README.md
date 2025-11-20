@@ -1,8 +1,8 @@
 # Project Bucket List 
-1. Programming language for music
-2. Mesh Networking Protocol
-3. Audio Visualizer
-4. Tribes as a dark midieval fantasy
+1. Mesh Networking Protocol
+2. Audio Visualizer
+3. Tribes as a dark midieval fantasy
+4. Programming language for music
 
 # Completed
 1. FortDB: Append Only, NoSQL database made with only standard library
